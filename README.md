@@ -1,15 +1,13 @@
 **A special issue of the journal [_Philosophy and the Mind Sciences_](https://philosophymindscience.org/index.php/phimisci/announcement/view/53)**
 
-Edited by Mark Sprevak (Edinburgh) and Francis Fallon (St Johns)
+Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://www.stjohns.edu/academics/faculty/francis-fallon)
 
-This website hosts information about the special issue. 
+This website hosts information about the special issue. You can:
 
-You can see:
-
-- The [Call for Papers](cfp.md)
-- The [list of confirmed authors](authors.md)
-- [Preprints of accepted papers](preprints/preprints.md)
-- [Submission instructions](https://philosophymindscience.org/index.php/phimisci/about/submissions)
+- See the [Call for Papers](cfp.md)
+- See the [list of confirmed authors](authors.md)
+- Read [preprints of accepted papers](preprints/preprints.md)
+- Check the [submission instructions](https://philosophymindscience.org/index.php/phimisci/about/submissions)
 
 Pre-submission inquiries are welcome at any time (<mailto:mark.sprevak@ed.ac.uk>).
 
