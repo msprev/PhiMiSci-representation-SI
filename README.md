@@ -6,7 +6,7 @@ Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://
 
 ## News
 
-- **7 June 2024** -- SI is launched and [CFP is publicly announced](https://philosophymindscience.org/index.php/phimisci/announcement/view/53)
+- **7 June 2024** – SI is publicy launched and CFP is announced
 
 ## Info
 
@@ -27,4 +27,4 @@ Estimated Publication Date: 1st Quarter of 2026
 
 --- 
 
-**Preprints of accepted papers will be posted on this website as they are accepted**
+**Preprints of accepted papers will be posted on this website in a rolling fashion as they are accepted**
