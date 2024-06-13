@@ -1,6 +1,6 @@
 {% include_relative header.md %}
 
-## Preprints of Accepted Papers
+## Preprints of Papers
 
 No papers have been accepted yet.
 
