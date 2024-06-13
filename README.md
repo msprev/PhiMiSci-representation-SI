@@ -19,7 +19,7 @@ This website hosts information about the special issue. You can:
 
 Pre-submission inquiries are welcome at any time (<mailto:mark.sprevak@ed.ac.uk>).
 
-**Manuscript Submission Deadline: 28th February 2025**
+**Final Submission Deadline: 28th February 2025**
 
 Word limit: between 4,000 and 10,000 words
 
