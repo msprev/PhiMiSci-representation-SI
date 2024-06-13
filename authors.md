@@ -1,0 +1,24 @@
+- Daniel Burnston
+- Colin Klein
+- Kevin Mitchell
+- Mazviita Chirimuuta
+- Inês Hipólito
+- Manolo Martinez & Marc Artiga
+- Gualtiero Piccinini & David Barack
+- Dimitri Coelho Mollo
+- John Krakauer & William Ramsey
+- Rosa Cao
+- Olivia Guest & Andrea Martin
+- Lotem Elber & Devin Gouvêa
+- Lisa Titus
+- Russ Poldrack
+- Mitchell Melanie
+- Megan Peters
+- Fintan Declan Mallory
+- Thomas Icard, Jacqueline Harding & Atticus Geiger
+- Grace Lindsay & Alex Williams
+- Patrick Butlin
+- Frances Egan
+- Chris Eliasmith & Michael Furlong
+- Ben Baker
+- Celeste Kidd, Bill Thompson, Alex Yang & Dhara Yu
