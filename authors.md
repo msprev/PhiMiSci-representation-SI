@@ -4,7 +4,7 @@ Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://
 
 ---
 
-## List of authors
+## List of Authors
 
 Confirmed authors for the SI include:
 
