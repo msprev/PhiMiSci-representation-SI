@@ -28,3 +28,4 @@ Confirmed authors for the SI include:
 - Chris Eliasmith & Michael Furlong
 - Ben Baker
 - Celeste Kidd, Bill Thompson, Alex Yang & Dhara Yu
+- Tomás Ryan
