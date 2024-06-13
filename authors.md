@@ -1,3 +1,5 @@
+Authors for the SI include:
+
 - Daniel Burnston
 - Colin Klein
 - Kevin Mitchell
