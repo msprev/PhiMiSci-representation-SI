@@ -1,6 +1,6 @@
-# Representation in the Neurosciences and AI
+# Representation in the Neurosciences and AI
 
-## Special issue for *Philosophy and the Mind Sciences*
+**Special issue of _Philosophy and the Mind Sciences_**
 
 This website hosts information about the special issue. You can:
 
