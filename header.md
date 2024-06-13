@@ -1,4 +1,4 @@
-<img align="left" src="header-img.jpg" alt="My Image">
+<img align="left" src="header-img.jpg" alt="My Image" width="100px">
 
 **A special issue of the journal [_Philosophy and the Mind Sciences_](https://philosophymindscience.org/index.php/phimisci/announcement/view/53)**
 
