@@ -4,7 +4,7 @@ Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://
 
 ---
 
-## Call for papers
+## Call for Papers
 
 Representations are widely believed to be among the essential
 ingredients for explaining cognition.  In cognitive psychology, behavior
