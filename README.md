@@ -13,7 +13,7 @@ This website hosts information about the special issue. You can:
 1. See the [Call for Papers](cfp.md)
 2. See the [list of confirmed authors](authors.md)
 3. Read [preprints of accepted papers](preprints/preprints.md)
-4. Make a [submission to the SI](https://philosophymindscience.org/index.php/phimisci/about/submissions)
+4. [Submit a paper](https://philosophymindscience.org/index.php/phimisci/about/submissions) (please read the submission instructions)
 
 Pre-submission inquiries are welcome at any time (<mailto:mark.sprevak@ed.ac.uk>).
 
