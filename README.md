@@ -2,6 +2,8 @@
 
 Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://www.stjohns.edu/academics/faculty/francis-fallon)
 
+{% include_relative header.md %}
+
 ## News
 
 - **7 June 2024** – SI is publicly launched and CFP is announced
