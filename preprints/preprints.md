@@ -4,7 +4,7 @@ Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://
 
 ---
 
-## Preprints of accepted papers
+## Preprints of Accepted Papers
 
 No papers have been accepted yet.
 
