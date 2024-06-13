@@ -6,7 +6,7 @@ Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://
 
 ## News
 
-- SI is publicly launched on 
+- 7 June 2024: SI is publicly launched and CFP annouced
 
 ## Info
 
