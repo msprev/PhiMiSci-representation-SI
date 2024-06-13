@@ -4,6 +4,12 @@ Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://
 
 ---
 
+## News
+
+- SI is publicly launched on 
+
+## Info
+
 This website hosts information about the special issue. You can:
 
 1. See the [Call for Papers](cfp.md)
@@ -17,7 +23,7 @@ Pre-submission inquiries are welcome at any time (<mailto:mark.sprevak@ed.ac.uk>
 
 Word limit: between 4,000 and 10,000 words
 
-Estimated Publication Date for entire SI: 1st Quarter of 2026
+Estimated Publication Date: 1st Quarter of 2026
 
 --- 
 
