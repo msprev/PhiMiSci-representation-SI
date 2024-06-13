@@ -4,5 +4,4 @@
 
 Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://www.stjohns.edu/academics/faculty/francis-fallon)
 
-\ 
-\ 
+<p>&nbsp;</p>
