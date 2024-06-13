@@ -15,6 +15,6 @@ Pre-submission inquiries are welcome at any time (<mailto:mark.sprevak@ed.ac.uk>
 
 Word limit: between 4,000 and 10,000 words
 
-Estimated Publication Date: 1st Quarter of 2026
+Estimated Publication Date for entire SI: 1st Quarter of 2026
 
-**Note that accepted papers will be published as preprints in a rolling fashion on the website**
+**Preprints of accepted papers will be posted on this website as they are accepted**
