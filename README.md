@@ -4,11 +4,11 @@ Edited by [Mark Sprevak](https://marksprevak.com/) and [Francis Fallon](https://
 
 ---
 
-## News
+## News
 
 - SI is publicly launched on 
 
-## Info
+## Info
 
 This website hosts information about the special issue. You can:
 
