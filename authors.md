@@ -16,9 +16,8 @@ Confirmed authors for the SI include:
 - Rosa Cao
 - Olivia Guest & Andrea Martin
 - Lotem Elber & Devin Gouvêa
-- Lisa Titus
 - Russ Poldrack
-- Mitchell Melanie
+- Melanie Mitchell
 - Megan Peters
 - Fintan Declan Mallory
 - Thomas Icard, Jacqueline Harding & Atticus Geiger
