@@ -16,7 +16,7 @@ Authors for the SI include:
 - Rosa Cao
 - Olivia Guest & Andrea Martin
 - Lotem Elber & Devin Gouvêa
-- Russ Poldrack
+- Russell Poldrack
 - Melanie Mitchell
 - Megan Peters
 - Fintan Declan Mallory
