@@ -2,7 +2,7 @@
 
 ## List of Authors
 
-Confirmed authors for the SI include:
+Authors for the SI include:
 
 - Daniel Burnston
 - Colin Klein
