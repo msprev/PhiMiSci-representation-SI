@@ -5,7 +5,7 @@
 Authors for the SI include:
 
 - Daniel Burnston
-- Colin Klein
+- Colin Klein & Alexandre Duval
 - Kevin Mitchell
 - Mazviita Chirimuuta
 - Inês Hipólito
@@ -28,4 +28,3 @@ Authors for the SI include:
 - Ben Baker
 - Celeste Kidd, Bill Thompson, Alex Yang & Dhara Yu
 - Tomás Ryan
-- Alexandre Duval
