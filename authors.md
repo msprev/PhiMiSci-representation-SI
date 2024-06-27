@@ -28,3 +28,4 @@ Authors for the SI include:
 - Ben Baker
 - Celeste Kidd, Bill Thompson, Alex Yang & Dhara Yu
 - Tomás Ryan
+- Alexandre Duval
