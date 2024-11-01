@@ -10,7 +10,7 @@ Authors for the SI include:
 - Mazviita Chirimuuta
 - Inês Hipólito
 - Manolo Martinez & Marc Artiga
-- Gualtiero Piccinini & David Barack
+- Gualtiero Piccinini
 - Dimitri Coelho Mollo
 - John Krakauer & William Ramsey
 - Rosa Cao
