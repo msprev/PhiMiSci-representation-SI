@@ -26,5 +26,6 @@ Authors for the SI include:
 - Frances Egan
 - Chris Eliasmith & Michael Furlong
 - Ben Baker
+- Nick Shea
 - Celeste Kidd, Bill Thompson, Alex Yang & Dhara Yu
 - Tomás Ryan
